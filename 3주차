@@ -1,0 +1,43 @@
+왜 JAVA?
+OOP의 근간이 되는 언어이기 때문이다
+이 언어를 배우면 나중에 다른 언어를 배울 때 용이해짐
+
+배치파일? OS에서 쓰이는, 명령 인터프리터에 의해 실행되게끔 고안된 명령어들이 나열되어 있는 텍스트 파일
+
+vi Hellojava.java
+~code~
+javac Hellojava.java
+java Hellojava
+
+vimrc 에서 colorscheme설정하기
+
+
+*Network 설정
+NAT
+설정 - 네트워크 - 고급 포트포워딩 - 추가 Host IP - Host Port 안 쓰는 번호를 골라야 함.(2222)
+PuTTY 다운로드,
+Host Name에 127.0~~ Host Port 2222 하고 open
+
+
+Java에는 Object-class-method가 있다.
+이름이 있는 class를 가지고 JVM에 던져주면, compile할 수 있는 언어로 바꿔줌
+
+Dog myDog = new Dog(name, size); >> object를 만드는 방법
+Class Names -> Upper case로 시작
+Method Names -> Lower case
+Program File name -> should match the class name (main)
+
+Android는 main method가 없다. OS가 직접 돌면서 실행하기 때문에.
+
+**Java Identifiers
+Begin with a letter, $, underscore(_)
+Case sensitive
+Keywords cannot be accepted
+
+**Home directory
+"~"
+-/home/<user name>/.
+- cd_~
+
+"Make your working directory
+mkdir_<directory name>
