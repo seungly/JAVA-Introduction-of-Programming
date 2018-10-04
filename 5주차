@@ -12,3 +12,12 @@ local은 method 안에 있는 것.
 class variable은 static을 줘야 함.
 
 constructor는 object의 instance variable를 initialize 한다.
+
+
+<Primitive types>
+boolean, char 16bits
+unsigned 가 붙으면 음수가 사라짐~
+
+literal value using to declarlation
+
+Using Dot operator(.), use reference value
