@@ -1,0 +1,14 @@
+<Last review>
+Identifiers: Names used for classes, variables, and methods
+
+main(String [] args) 에서
+**String: 이것도 identifiers. pre-defined class다.
+
+OOP는 유지보수, 확장성이 좋다.
+그래서 class를 만들 때, 무엇을 위해 만들었고 어떻게 써야 하는지 잘 적어놔야 한다.
+
+instance variable 은 object가 define될 때 생성된다. (method 밖, class 안)
+local은 method 안에 있는 것.
+class variable은 static을 줘야 함.
+
+constructor는 object의 instance variable를 initialize 한다.
