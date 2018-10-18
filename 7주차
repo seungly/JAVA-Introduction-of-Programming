@@ -1,0 +1,16 @@
+<Reference variable>
+- object를 가리키는 변수
+- heap에 load된 object의 주소값(==> 참조값)을 할당 받는 변수
+
+<Metasyntactic variable> foo, Foo
+- Underlying definition or description + Syntax / temporarily represent a function
+
+<Method parameters>
+-Caller: argument
+-Receiver: parameter
+
+<Midterm>
+class, object 만드는 것을 연필로, description
+1~3강
+java 내용 자체를 벗어나지 않음
+수업 시간에 애기 했던 것들... + 청수님 발표 + static value : class area에 놓이는 .. (주된 주제 파악)
