@@ -1,0 +1,13 @@
+All methods have 'return type'.
+'Return' means going back to caller. (who called the method)
+
+Instance Variable은 initialize 하지 않으면 기본 값으로 설정 된다.
+integers = 0 / reference = null
+
+instance means Object.
+Is it possible to assign a value when it is declared? Yes
+
+= assign
+== compares the bits
+
+Java Extension pack 이 무엇인지, Linting 이 무엇인지.
