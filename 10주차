@@ -5,3 +5,8 @@ Homework
 2.2. Strong points against IDE?
 3. What is Linting?
 
+For 문에서는 increment할 때 pre 나 post나 상관없다.
+
+* Enhanced for loop
+for (String name: nameArray){}
+Array의 요소들을 index 0부터 가져다가 name에 넣는다.
