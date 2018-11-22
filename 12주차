@@ -1,0 +1,20 @@
+1. Classes: Real coding.
+2. Test class: 설계서. 내가 실질적으로 사용할 class를 어떻게 사용할 지 미리 정의해 놓는 것.
+               class를 만들고, 내가 원하는 대로 만들어졌는지 이 test를 돌려봄으로써 확인할 수 있음
+3. Launcher Class: excute the process for solving problem
+
+*Method
+- Declare & Assignment
+- Operations
+- Loops
+- Brenches
+
+System.in -> terminal의 input을 인자로 받는 것
+
+외부에서 변수를 정할 수 있게 하면, 확장성에 좋다. ex) setLocationCells 밖에서 DotCom을 정하면, 사이즈를 늘릴 때 편해짐
+
+(Object reference variable) instanceof (class/interface type) ==> boolean return
+이 object가 이 class이냐?
+
+Array vs. ArrayList
+Immutable vs. Mutable (fixed size or not)
