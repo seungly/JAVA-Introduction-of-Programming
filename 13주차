@@ -1,0 +1,25 @@
+* Scanner: nextLine() vs. next()
+nextLine()은 carriage return 될 때까지 출력함. 
+buffer clear 용으로 sc.next(); 써주고 쓰면 문제 없다~
+
+* Java has an exception handling - try and catch
+catch - handle exception
+
+* Debugging
+-process of ascertaining why the program is failing
+-function and performance
+
+vs. Validation
+-process to uncover problems and increas confidence
+-testing and reasoning
+
+==> For detensive programming
+
+* Testing
+-Action of validation
+-examining the input and output pairs
+-Unit or Integration
+-Testi suit 1) should be small enough to test it in reasonable time
+            2) should be large enough
+
+* Linting : 미리 코드를 돌려서 에러 확인하는 것
